@@ -1,0 +1,64 @@
+Cantrips:
+
+Name: Acid Splash
+Spell Level: Cantrip
+Spell Type: Conjuration 
+Casting Time: 1 action
+Range: 60 feet
+Components: V S 
+Duration: Instantaneous
+Classes: Sorcerer, Wizard
+Description: You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+
+Spells:
+
+2nd Level Spells:
+Name: Acid Arrow
+Spell Level: 2
+Spell Type: Evocation 
+Casting Time: 1 action
+Range: 90 feet
+Components: V S M (Powdered rhubarb leaf and an adder's stomach)
+Duration: Instantaneous
+Classes: Wizard
+Description: A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
+
+
+3rd Level Spells:
+Name: Fireball
+Spell Level: 3
+Spell Type: Evocation 
+Casting Time: 1 action
+Range: 150 feet
+Components: V S M (A tiny ball of bat guano and sulfur)
+Duration: Instantaneous
+Classes: Sorcerer, Wizard
+Description: A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren’t being worn or carried.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+
+4th Level Spells:
+Name: Blight
+Spell Level: 4
+Spell Type: Necromancy 
+Casting Time: 1 action
+Range: 30 feet
+Components: V S 
+Duration: Instantaneous
+Classes: Druid, Sorcerer, Warlock, Wizard
+Description: Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it makes the saving throw with disadvantage, and the spell deals maximum damage to it. If you target a nonmagical plant that isn’t a creature, such as a tree or shrub, it doesn’t make a saving throw; it simply withers and dies.
+At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
+
+
+9th Level Spells:
+Name: Meteor Swarm
+Spell Level: 9
+Spell Type: Evocation 
+Casting Time: 1 action
+Range: 1 mile
+Components: V S 
+Duration: Instantaneous
+Classes: Sorcerer, Wizard
+Description: Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a Dexterity saving throw. The sphere spreads around corners. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.
+

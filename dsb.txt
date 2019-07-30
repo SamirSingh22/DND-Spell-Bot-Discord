@@ -1,0 +1,13 @@
+Commands:
+	'!spell (spell name)' (Ex: !spell fireball)
+		- Sends a full description of that spell to the channel
+	'!file (spell name), (spell name), ...' (Ex: !file fireball, blight, acid arrow)
+		- Sends a sorted and formatted word doc of all the spells specified by the user to the channel
+	'!attack (mentioned player) (spell name)' (Ex: !attack @charizardman22 fireball)
+		- Attacks a user with a certain spell. All damage is stored and remembered until bot is reset
+	'!heal (mentioned player)' (Ex: !heal @charizardman22)
+		- Heals mentioned user
+	'!saveme'
+		- Makes death saving throws if you are down
+	'!help dsb'
+		- You get this exact information again
